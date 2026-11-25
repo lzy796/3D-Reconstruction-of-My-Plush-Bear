@@ -1,0 +1,1423 @@
+{
+  "generated_by": "scripts/inventory.py",
+  "photo_count": 64,
+  "photo_size_variants": [
+    [
+      1440,
+      901
+    ],
+    [
+      1440,
+      1080
+    ],
+    [
+      2762,
+      3072
+    ],
+    [
+      2788,
+      2972
+    ],
+    [
+      2826,
+      4023
+    ],
+    [
+      2832,
+      3072
+    ],
+    [
+      3072,
+      2884
+    ],
+    [
+      3072,
+      3014
+    ],
+    [
+      3072,
+      3112
+    ],
+    [
+      3467,
+      2168
+    ],
+    [
+      3545,
+      3072
+    ],
+    [
+      3804,
+      2916
+    ],
+    [
+      4052,
+      2654
+    ],
+    [
+      4090,
+      2936
+    ],
+    [
+      4096,
+      2509
+    ],
+    [
+      4096,
+      2533
+    ],
+    [
+      4096,
+      2732
+    ],
+    [
+      4096,
+      3072
+    ],
+    [
+      4160,
+      3120
+    ]
+  ],
+  "photo_orientation_variants": [
+    0,
+    1
+  ],
+  "photos": [
+    {
+      "index": 76,
+      "file": "微信图片_20261125233817_76_64.jpg",
+      "bytes": 102309,
+      "raw_size": [
+        1440,
+        1080
+      ],
+      "display_size": [
+        1440,
+        1080
+      ],
+      "exif_orientation": 1,
+      "mode": "RGB",
+      "format": "JPEG",
+      "aspect": 1.3333
+    },
+    {
+      "index": 77,
+      "file": "微信图片_20261125233817_77_64.jpg",
+      "bytes": 116031,
+      "raw_size": [
+        1440,
+        901
+      ],
+      "display_size": [
+        1440,
+        901
+      ],
+      "exif_orientation": 1,
+      "mode": "RGB",
+      "format": "JPEG",
+      "aspect": 1.5982
+    },
+    {
+      "index": 78,
+      "file": "微信图片_20261125233817_78_64.jpg",
+      "bytes": 161260,
+      "raw_size": [
+        1440,
+        1080
+      ],
+      "display_size": [
+        1440,
+        1080
+      ],
+      "exif_orientation": 1,
+      "mode": "RGB",
+      "format": "JPEG",
+      "aspect": 1.3333
+    },
+    {
+      "index": 79,
+      "file": "微信图片_20261125233817_79_64.jpg",
+      "bytes": 2253502,
+      "raw_size": [
+        4096,
+        3072
+      ],
+      "display_size": [
+        4096,
+        3072
+      ],
+      "exif_orientation": 1,
+      "mode": "RGB",
+      "format": "JPEG",
+      "aspect": 1.3333
+    },
+    {
+      "index": 80,
+      "file": "微信图片_20261125233817_80_64.jpg",
+      "bytes": 2031731,
+      "raw_size": [
+        3072,
+        2884
+      ],
+      "display_size": [
+        3072,
+        2884
+      ],
+      "exif_orientation": 1,
+      "mode": "RGB",
+      "format": "JPEG",
+      "aspect": 1.0652
+    },
+    {
+      "index": 81,
+      "file": "微信图片_20261125233817_81_64.jpg",
+      "bytes": 3957419,
+      "raw_size": [
+        4096,
+        3072
+      ],
+      "display_size": [
+        4096,
+        3072
+      ],
+      "exif_orientation": 0,
+      "mode": "RGB",
+      "format": "JPEG",
+      "aspect": 1.3333
+    },
+    {
+      "index": 82,
+      "file": "微信图片_20261125233817_82_64.jpg",
+      "bytes": 2482161,
+      "raw_size": [
+        2826,
+        4023
+      ],
+      "display_size": [
+        2826,
+        4023
+      ],
+      "exif_orientation": 1,
+      "mode": "RGB",
+      "format": "JPEG",
+      "aspect": 0.7025
+    },
+    {
+      "index": 83,
+      "file": "微信图片_20261125233817_83_64.jpg",
+      "bytes": 3270109,
+      "raw_size": [
+        4096,
+        3072
+      ],
+      "display_size": [
+        4096,
+        3072
+      ],
+      "exif_orientation": 1,
+      "mode": "RGB",
+      "format": "JPEG",
+      "aspect": 1.3333
+    },
+    {
+      "index": 84,
+      "file": "微信图片_20261125233817_84_64.jpg",
+      "bytes": 3547140,
+      "raw_size": [
+        4096,
+        3072
+      ],
+      "display_size": [
+        4096,
+        3072
+      ],
+      "exif_orientation": 0,
+      "mode": "RGB",
+      "format": "JPEG",
+      "aspect": 1.3333
+    },
+    {
+      "index": 85,
+      "file": "微信图片_20261125233817_85_64.jpg",
+      "bytes": 4046780,
+      "raw_size": [
+        4096,
+        3072
+      ],
+      "display_size": [
+        4096,
+        3072
+      ],
+      "exif_orientation": 0,
+      "mode": "RGB",
+      "format": "JPEG",
+      "aspect": 1.3333
+    },
+    {
+      "index": 86,
+      "file": "微信图片_20261125233817_86_64.jpg",
+      "bytes": 5929230,
+      "raw_size": [
+        4096,
+        3072
+      ],
+      "display_size": [
+        4096,
+        3072
+      ],
+      "exif_orientation": 0,
+      "mode": "RGB",
+      "format": "JPEG",
+      "aspect": 1.3333
+    },
+    {
+      "index": 87,
+      "file": "微信图片_20261125233817_87_64.jpg",
+      "bytes": 5649548,
+      "raw_size": [
+        4096,
+        3072
+      ],
+      "display_size": [
+        4096,
+        3072
+      ],
+      "exif_orientation": 0,
+      "mode": "RGB",
+      "format": "JPEG",
+      "aspect": 1.3333
+    },
+    {
+      "index": 88,
+      "file": "微信图片_20261125233817_88_64.jpg",
+      "bytes": 2429105,
+      "raw_size": [
+        3804,
+        2916
+      ],
+      "display_size": [
+        3804,
+        2916
+      ],
+      "exif_orientation": 1,
+      "mode": "RGB",
+      "format": "JPEG",
+      "aspect": 1.3045
+    },
+    {
+      "index": 89,
+      "file": "微信图片_20261125233817_89_64.jpg",
+      "bytes": 2346766,
+      "raw_size": [
+        4096,
+        2509
+      ],
+      "display_size": [
+        4096,
+        2509
+      ],
+      "exif_orientation": 1,
+      "mode": "RGB",
+      "format": "JPEG",
+      "aspect": 1.6325
+    },
+    {
+      "index": 90,
+      "file": "微信图片_20261125233817_90_64.jpg",
+      "bytes": 2312501,
+      "raw_size": [
+        4052,
+        2654
+      ],
+      "display_size": [
+        4052,
+        2654
+      ],
+      "exif_orientation": 1,
+      "mode": "RGB",
+      "format": "JPEG",
+      "aspect": 1.5268
+    },
+    {
+      "index": 91,
+      "file": "微信图片_20261125233817_91_64.jpg",
+      "bytes": 1995966,
+      "raw_size": [
+        3072,
+        3014
+      ],
+      "display_size": [
+        3072,
+        3014
+      ],
+      "exif_orientation": 1,
+      "mode": "RGB",
+      "format": "JPEG",
+      "aspect": 1.0192
+    },
+    {
+      "index": 92,
+      "file": "微信图片_20261125233817_92_64.jpg",
+      "bytes": 1786846,
+      "raw_size": [
+        2788,
+        2972
+      ],
+      "display_size": [
+        2788,
+        2972
+      ],
+      "exif_orientation": 1,
+      "mode": "RGB",
+      "format": "JPEG",
+      "aspect": 0.9381
+    },
+    {
+      "index": 93,
+      "file": "微信图片_20261125233817_93_64.jpg",
+      "bytes": 3992939,
+      "raw_size": [
+        4096,
+        3072
+      ],
+      "display_size": [
+        4096,
+        3072
+      ],
+      "exif_orientation": 0,
+      "mode": "RGB",
+      "format": "JPEG",
+      "aspect": 1.3333
+    },
+    {
+      "index": 94,
+      "file": "微信图片_20261125233817_94_64.jpg",
+      "bytes": 4189624,
+      "raw_size": [
+        4096,
+        3072
+      ],
+      "display_size": [
+        4096,
+        3072
+      ],
+      "exif_orientation": 0,
+      "mode": "RGB",
+      "format": "JPEG",
+      "aspect": 1.3333
+    },
+    {
+      "index": 95,
+      "file": "微信图片_20261125233817_95_64.jpg",
+      "bytes": 4244929,
+      "raw_size": [
+        4096,
+        3072
+      ],
+      "display_size": [
+        4096,
+        3072
+      ],
+      "exif_orientation": 0,
+      "mode": "RGB",
+      "format": "JPEG",
+      "aspect": 1.3333
+    },
+    {
+      "index": 96,
+      "file": "微信图片_20261125233817_96_64.jpg",
+      "bytes": 3795517,
+      "raw_size": [
+        4096,
+        3072
+      ],
+      "display_size": [
+        4096,
+        3072
+      ],
+      "exif_orientation": 0,
+      "mode": "RGB",
+      "format": "JPEG",
+      "aspect": 1.3333
+    },
+    {
+      "index": 97,
+      "file": "微信图片_20261125233817_97_64.jpg",
+      "bytes": 4145545,
+      "raw_size": [
+        4096,
+        3072
+      ],
+      "display_size": [
+        4096,
+        3072
+      ],
+      "exif_orientation": 0,
+      "mode": "RGB",
+      "format": "JPEG",
+      "aspect": 1.3333
+    },
+    {
+      "index": 98,
+      "file": "微信图片_20261125233817_98_64.jpg",
+      "bytes": 4223644,
+      "raw_size": [
+        4096,
+        3072
+      ],
+      "display_size": [
+        4096,
+        3072
+      ],
+      "exif_orientation": 0,
+      "mode": "RGB",
+      "format": "JPEG",
+      "aspect": 1.3333
+    },
+    {
+      "index": 99,
+      "file": "微信图片_20261125233817_99_64.jpg",
+      "bytes": 4180134,
+      "raw_size": [
+        4096,
+        3072
+      ],
+      "display_size": [
+        4096,
+        3072
+      ],
+      "exif_orientation": 0,
+      "mode": "RGB",
+      "format": "JPEG",
+      "aspect": 1.3333
+    },
+    {
+      "index": 100,
+      "file": "微信图片_20261125233817_100_64.jpg",
+      "bytes": 3713988,
+      "raw_size": [
+        4096,
+        3072
+      ],
+      "display_size": [
+        4096,
+        3072
+      ],
+      "exif_orientation": 0,
+      "mode": "RGB",
+      "format": "JPEG",
+      "aspect": 1.3333
+    },
+    {
+      "index": 101,
+      "file": "微信图片_20261125233817_101_64.jpg",
+      "bytes": 3567187,
+      "raw_size": [
+        4096,
+        3072
+      ],
+      "display_size": [
+        4096,
+        3072
+      ],
+      "exif_orientation": 0,
+      "mode": "RGB",
+      "format": "JPEG",
+      "aspect": 1.3333
+    },
+    {
+      "index": 102,
+      "file": "微信图片_20261125233817_102_64.jpg",
+      "bytes": 3887062,
+      "raw_size": [
+        4096,
+        3072
+      ],
+      "display_size": [
+        4096,
+        3072
+      ],
+      "exif_orientation": 0,
+      "mode": "RGB",
+      "format": "JPEG",
+      "aspect": 1.3333
+    },
+    {
+      "index": 103,
+      "file": "微信图片_20261125233817_103_64.jpg",
+      "bytes": 3754659,
+      "raw_size": [
+        4096,
+        3072
+      ],
+      "display_size": [
+        4096,
+        3072
+      ],
+      "exif_orientation": 0,
+      "mode": "RGB",
+      "format": "JPEG",
+      "aspect": 1.3333
+    },
+    {
+      "index": 104,
+      "file": "微信图片_20261125233817_104_64.jpg",
+      "bytes": 4252158,
+      "raw_size": [
+        4096,
+        3072
+      ],
+      "display_size": [
+        4096,
+        3072
+      ],
+      "exif_orientation": 0,
+      "mode": "RGB",
+      "format": "JPEG",
+      "aspect": 1.3333
+    },
+    {
+      "index": 105,
+      "file": "微信图片_20261125233817_105_64.jpg",
+      "bytes": 3944989,
+      "raw_size": [
+        4096,
+        3072
+      ],
+      "display_size": [
+        4096,
+        3072
+      ],
+      "exif_orientation": 0,
+      "mode": "RGB",
+      "format": "JPEG",
+      "aspect": 1.3333
+    },
+    {
+      "index": 106,
+      "file": "微信图片_20261125233817_106_64.jpg",
+      "bytes": 4804897,
+      "raw_size": [
+        4160,
+        3120
+      ],
+      "display_size": [
+        4160,
+        3120
+      ],
+      "exif_orientation": 0,
+      "mode": "RGB",
+      "format": "JPEG",
+      "aspect": 1.3333
+    },
+    {
+      "index": 107,
+      "file": "微信图片_20261125233817_107_64.jpg",
+      "bytes": 3389838,
+      "raw_size": [
+        4096,
+        3072
+      ],
+      "display_size": [
+        4096,
+        3072
+      ],
+      "exif_orientation": 0,
+      "mode": "RGB",
+      "format": "JPEG",
+      "aspect": 1.3333
+    },
+    {
+      "index": 108,
+      "file": "微信图片_20261125233817_108_64.jpg",
+      "bytes": 2282680,
+      "raw_size": [
+        4096,
+        3072
+      ],
+      "display_size": [
+        4096,
+        3072
+      ],
+      "exif_orientation": 0,
+      "mode": "RGB",
+      "format": "JPEG",
+      "aspect": 1.3333
+    },
+    {
+      "index": 109,
+      "file": "微信图片_20261125233817_109_64.jpg",
+      "bytes": 2695974,
+      "raw_size": [
+        4090,
+        2936
+      ],
+      "display_size": [
+        4090,
+        2936
+      ],
+      "exif_orientation": 1,
+      "mode": "RGB",
+      "format": "JPEG",
+      "aspect": 1.3931
+    },
+    {
+      "index": 110,
+      "file": "微信图片_20261125233817_110_64.jpg",
+      "bytes": 5045431,
+      "raw_size": [
+        4160,
+        3120
+      ],
+      "display_size": [
+        4160,
+        3120
+      ],
+      "exif_orientation": 0,
+      "mode": "RGB",
+      "format": "JPEG",
+      "aspect": 1.3333
+    },
+    {
+      "index": 111,
+      "file": "微信图片_20261125233817_111_64.jpg",
+      "bytes": 2976459,
+      "raw_size": [
+        4096,
+        3072
+      ],
+      "display_size": [
+        4096,
+        3072
+      ],
+      "exif_orientation": 0,
+      "mode": "RGB",
+      "format": "JPEG",
+      "aspect": 1.3333
+    },
+    {
+      "index": 112,
+      "file": "微信图片_20261125233817_112_64.jpg",
+      "bytes": 3062841,
+      "raw_size": [
+        4096,
+        3072
+      ],
+      "display_size": [
+        4096,
+        3072
+      ],
+      "exif_orientation": 0,
+      "mode": "RGB",
+      "format": "JPEG",
+      "aspect": 1.3333
+    },
+    {
+      "index": 113,
+      "file": "微信图片_20261125233817_113_64.jpg",
+      "bytes": 2847187,
+      "raw_size": [
+        4096,
+        3072
+      ],
+      "display_size": [
+        4096,
+        3072
+      ],
+      "exif_orientation": 0,
+      "mode": "RGB",
+      "format": "JPEG",
+      "aspect": 1.3333
+    },
+    {
+      "index": 114,
+      "file": "微信图片_20261125233817_114_64.jpg",
+      "bytes": 5062577,
+      "raw_size": [
+        4096,
+        2732
+      ],
+      "display_size": [
+        4096,
+        2732
+      ],
+      "exif_orientation": 0,
+      "mode": "RGB",
+      "format": "JPEG",
+      "aspect": 1.4993
+    },
+    {
+      "index": 115,
+      "file": "微信图片_20261125233817_115_64.jpg",
+      "bytes": 2643438,
+      "raw_size": [
+        4096,
+        3072
+      ],
+      "display_size": [
+        4096,
+        3072
+      ],
+      "exif_orientation": 0,
+      "mode": "RGB",
+      "format": "JPEG",
+      "aspect": 1.3333
+    },
+    {
+      "index": 116,
+      "file": "微信图片_20261125233817_116_64.jpg",
+      "bytes": 2415267,
+      "raw_size": [
+        4096,
+        3072
+      ],
+      "display_size": [
+        4096,
+        3072
+      ],
+      "exif_orientation": 0,
+      "mode": "RGB",
+      "format": "JPEG",
+      "aspect": 1.3333
+    },
+    {
+      "index": 117,
+      "file": "微信图片_20261125233817_117_64.jpg",
+      "bytes": 2786269,
+      "raw_size": [
+        4096,
+        3072
+      ],
+      "display_size": [
+        4096,
+        3072
+      ],
+      "exif_orientation": 0,
+      "mode": "RGB",
+      "format": "JPEG",
+      "aspect": 1.3333
+    },
+    {
+      "index": 118,
+      "file": "微信图片_20261125233817_118_64.jpg",
+      "bytes": 2905579,
+      "raw_size": [
+        4096,
+        3072
+      ],
+      "display_size": [
+        4096,
+        3072
+      ],
+      "exif_orientation": 0,
+      "mode": "RGB",
+      "format": "JPEG",
+      "aspect": 1.3333
+    },
+    {
+      "index": 119,
+      "file": "微信图片_20261125233817_119_64.jpg",
+      "bytes": 2912590,
+      "raw_size": [
+        4096,
+        3072
+      ],
+      "display_size": [
+        4096,
+        3072
+      ],
+      "exif_orientation": 0,
+      "mode": "RGB",
+      "format": "JPEG",
+      "aspect": 1.3333
+    },
+    {
+      "index": 120,
+      "file": "微信图片_20261125233817_120_64.jpg",
+      "bytes": 2816299,
+      "raw_size": [
+        4096,
+        3072
+      ],
+      "display_size": [
+        4096,
+        3072
+      ],
+      "exif_orientation": 0,
+      "mode": "RGB",
+      "format": "JPEG",
+      "aspect": 1.3333
+    },
+    {
+      "index": 121,
+      "file": "微信图片_20261125233817_121_64.jpg",
+      "bytes": 2846464,
+      "raw_size": [
+        4096,
+        3072
+      ],
+      "display_size": [
+        4096,
+        3072
+      ],
+      "exif_orientation": 0,
+      "mode": "RGB",
+      "format": "JPEG",
+      "aspect": 1.3333
+    },
+    {
+      "index": 122,
+      "file": "微信图片_20261125233817_122_64.jpg",
+      "bytes": 1991304,
+      "raw_size": [
+        2832,
+        3072
+      ],
+      "display_size": [
+        2832,
+        3072
+      ],
+      "exif_orientation": 1,
+      "mode": "RGB",
+      "format": "JPEG",
+      "aspect": 0.9219
+    },
+    {
+      "index": 123,
+      "file": "微信图片_20261125233817_123_64.jpg",
+      "bytes": 3653805,
+      "raw_size": [
+        3072,
+        3112
+      ],
+      "display_size": [
+        3072,
+        3112
+      ],
+      "exif_orientation": 1,
+      "mode": "RGB",
+      "format": "JPEG",
+      "aspect": 0.9871
+    },
+    {
+      "index": 124,
+      "file": "微信图片_20261125233817_124_64.jpg",
+      "bytes": 2275391,
+      "raw_size": [
+        4096,
+        3072
+      ],
+      "display_size": [
+        4096,
+        3072
+      ],
+      "exif_orientation": 0,
+      "mode": "RGB",
+      "format": "JPEG",
+      "aspect": 1.3333
+    },
+    {
+      "index": 125,
+      "file": "微信图片_20261125233817_125_64.jpg",
+      "bytes": 5961910,
+      "raw_size": [
+        4096,
+        3072
+      ],
+      "display_size": [
+        4096,
+        3072
+      ],
+      "exif_orientation": 0,
+      "mode": "RGB",
+      "format": "JPEG",
+      "aspect": 1.3333
+    },
+    {
+      "index": 126,
+      "file": "微信图片_20261125233817_126_64.jpg",
+      "bytes": 2399185,
+      "raw_size": [
+        4096,
+        3072
+      ],
+      "display_size": [
+        4096,
+        3072
+      ],
+      "exif_orientation": 0,
+      "mode": "RGB",
+      "format": "JPEG",
+      "aspect": 1.3333
+    },
+    {
+      "index": 127,
+      "file": "微信图片_20261125233817_127_64.jpg",
+      "bytes": 6641080,
+      "raw_size": [
+        4096,
+        3072
+      ],
+      "display_size": [
+        4096,
+        3072
+      ],
+      "exif_orientation": 0,
+      "mode": "RGB",
+      "format": "JPEG",
+      "aspect": 1.3333
+    },
+    {
+      "index": 128,
+      "file": "微信图片_20261125233817_128_64.jpg",
+      "bytes": 4789268,
+      "raw_size": [
+        4096,
+        3072
+      ],
+      "display_size": [
+        4096,
+        3072
+      ],
+      "exif_orientation": 0,
+      "mode": "RGB",
+      "format": "JPEG",
+      "aspect": 1.3333
+    },
+    {
+      "index": 129,
+      "file": "微信图片_20261125233817_129_64.jpg",
+      "bytes": 2677496,
+      "raw_size": [
+        4096,
+        3072
+      ],
+      "display_size": [
+        4096,
+        3072
+      ],
+      "exif_orientation": 0,
+      "mode": "RGB",
+      "format": "JPEG",
+      "aspect": 1.3333
+    },
+    {
+      "index": 130,
+      "file": "微信图片_20261125233817_130_64.jpg",
+      "bytes": 3064371,
+      "raw_size": [
+        4096,
+        3072
+      ],
+      "display_size": [
+        4096,
+        3072
+      ],
+      "exif_orientation": 0,
+      "mode": "RGB",
+      "format": "JPEG",
+      "aspect": 1.3333
+    },
+    {
+      "index": 131,
+      "file": "微信图片_20261125233817_131_64.jpg",
+      "bytes": 3541980,
+      "raw_size": [
+        4096,
+        3072
+      ],
+      "display_size": [
+        4096,
+        3072
+      ],
+      "exif_orientation": 0,
+      "mode": "RGB",
+      "format": "JPEG",
+      "aspect": 1.3333
+    },
+    {
+      "index": 132,
+      "file": "微信图片_20261125233817_132_64.jpg",
+      "bytes": 3380975,
+      "raw_size": [
+        4096,
+        3072
+      ],
+      "display_size": [
+        4096,
+        3072
+      ],
+      "exif_orientation": 0,
+      "mode": "RGB",
+      "format": "JPEG",
+      "aspect": 1.3333
+    },
+    {
+      "index": 133,
+      "file": "微信图片_20261125233817_133_64.jpg",
+      "bytes": 2190968,
+      "raw_size": [
+        4096,
+        3072
+      ],
+      "display_size": [
+        4096,
+        3072
+      ],
+      "exif_orientation": 0,
+      "mode": "RGB",
+      "format": "JPEG",
+      "aspect": 1.3333
+    },
+    {
+      "index": 134,
+      "file": "微信图片_20261125233817_134_64.jpg",
+      "bytes": 2216124,
+      "raw_size": [
+        2762,
+        3072
+      ],
+      "display_size": [
+        2762,
+        3072
+      ],
+      "exif_orientation": 1,
+      "mode": "RGB",
+      "format": "JPEG",
+      "aspect": 0.8991
+    },
+    {
+      "index": 135,
+      "file": "微信图片_20261125233817_135_64.jpg",
+      "bytes": 1749072,
+      "raw_size": [
+        4096,
+        2533
+      ],
+      "display_size": [
+        4096,
+        2533
+      ],
+      "exif_orientation": 1,
+      "mode": "RGB",
+      "format": "JPEG",
+      "aspect": 1.6171
+    },
+    {
+      "index": 136,
+      "file": "微信图片_20261125233817_136_64.jpg",
+      "bytes": 2579641,
+      "raw_size": [
+        4096,
+        3072
+      ],
+      "display_size": [
+        4096,
+        3072
+      ],
+      "exif_orientation": 0,
+      "mode": "RGB",
+      "format": "JPEG",
+      "aspect": 1.3333
+    },
+    {
+      "index": 137,
+      "file": "微信图片_20261125233817_137_64.jpg",
+      "bytes": 1810930,
+      "raw_size": [
+        2832,
+        3072
+      ],
+      "display_size": [
+        2832,
+        3072
+      ],
+      "exif_orientation": 1,
+      "mode": "RGB",
+      "format": "JPEG",
+      "aspect": 0.9219
+    },
+    {
+      "index": 138,
+      "file": "微信图片_20261125233817_138_64.jpg",
+      "bytes": 1720579,
+      "raw_size": [
+        3467,
+        2168
+      ],
+      "display_size": [
+        3467,
+        2168
+      ],
+      "exif_orientation": 1,
+      "mode": "RGB",
+      "format": "JPEG",
+      "aspect": 1.5992
+    },
+    {
+      "index": 139,
+      "file": "微信图片_20261125233817_139_64.jpg",
+      "bytes": 2080105,
+      "raw_size": [
+        3545,
+        3072
+      ],
+      "display_size": [
+        3545,
+        3072
+      ],
+      "exif_orientation": 1,
+      "mode": "RGB",
+      "format": "JPEG",
+      "aspect": 1.154
+    }
+  ],
+  "glb": [
+    {
+      "file": "object_0.glb",
+      "bytes": 1653436,
+      "glb_version": 2,
+      "bin_chunk_bytes": 1652080,
+      "asset": {
+        "version": "2.0",
+        "generator": "https://github.com/mikedh/trimesh"
+      },
+      "extensions_used": [],
+      "nodes": 2,
+      "meshes": 1,
+      "materials": 1,
+      "textures": 1,
+      "images": [
+        {
+          "mimeType": "image/png",
+          "name": null,
+          "bufferView": 2
+        }
+      ],
+      "primitives": [
+        {
+          "attributes": [
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "vertex_count": 11372,
+          "triangle_count": 17514,
+          "position_min": [
+            -0.49963870644569397,
+            -0.4771929681301117,
+            -0.3068110942840576
+          ],
+          "position_max": [
+            0.49968376755714417,
+            0.48475053906440735,
+            0.3113427460193634
+          ],
+          "material": 0,
+          "mode": 4
+        }
+      ],
+      "materials_detail": [
+        {
+          "pbrMetallicRoughness": {
+            "baseColorTexture": {
+              "index": 0
+            },
+            "baseColorFactor": [
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ],
+            "roughnessFactor": 1.0
+          },
+          "doubleSided": false
+        }
+      ],
+      "node_transforms": [
+        {
+          "name": "world"
+        },
+        {
+          "name": "geometry_0"
+        }
+      ],
+      "total_vertices": 11372,
+      "total_triangles": 17514
+    },
+    {
+      "file": "object_0_v2.glb",
+      "bytes": 1677400,
+      "glb_version": 2,
+      "bin_chunk_bytes": 1676044,
+      "asset": {
+        "version": "2.0",
+        "generator": "https://github.com/mikedh/trimesh"
+      },
+      "extensions_used": [],
+      "nodes": 2,
+      "meshes": 1,
+      "materials": 1,
+      "textures": 1,
+      "images": [
+        {
+          "mimeType": "image/png",
+          "name": null,
+          "bufferView": 2
+        }
+      ],
+      "primitives": [
+        {
+          "attributes": [
+            "POSITION",
+            "TEXCOORD_0"
+          ],
+          "vertex_count": 11656,
+          "triangle_count": 17844,
+          "position_min": [
+            -0.49972906708717346,
+            -0.4742277264595032,
+            -0.31008297204971313
+          ],
+          "position_max": [
+            0.49980008602142334,
+            0.4777072072029114,
+            0.3112538456916809
+          ],
+          "material": 0,
+          "mode": 4
+        }
+      ],
+      "materials_detail": [
+        {
+          "pbrMetallicRoughness": {
+            "baseColorTexture": {
+              "index": 0
+            },
+            "baseColorFactor": [
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ],
+            "roughnessFactor": 1.0
+          },
+          "doubleSided": false
+        }
+      ],
+      "node_transforms": [
+        {
+          "name": "world"
+        },
+        {
+          "name": "geometry_0"
+        }
+      ],
+      "total_vertices": 11656,
+      "total_triangles": 17844
+    }
+  ],
+  "ply": [
+    {
+      "file": "object_0.ply",
+      "bytes": 6580095,
+      "format": "format binary_little_endian 1.0",
+      "elements": [
+        {
+          "name": "vertex",
+          "count": 96760,
+          "properties": [
+            "x",
+            "y",
+            "z",
+            "nx",
+            "ny",
+            "nz",
+            "f_dc_0",
+            "f_dc_1",
+            "f_dc_2",
+            "opacity",
+            "scale_0",
+            "scale_1",
+            "scale_2",
+            "rot_0",
+            "rot_1",
+            "rot_2",
+            "rot_3"
+          ]
+        }
+      ],
+      "ascii": false,
+      "vertex_count": 96760,
+      "bbox": {
+        "x": {
+          "min": -0.4966481626033783,
+          "max": 0.49691176414489746,
+          "mean": -0.0011895282710692567,
+          "std": 0.24814987523304757
+        },
+        "y": {
+          "min": -0.30761733651161194,
+          "max": 0.3046574592590332,
+          "mean": 0.018114689052560792,
+          "std": 0.1417147430425959
+        },
+        "z": {
+          "min": -0.4750409722328186,
+          "max": 0.48088395595550537,
+          "mean": -0.08895910673579582,
+          "std": 0.24622404910120735
+        }
+      },
+      "bbox_size": [
+        0.9936,
+        0.6123,
+        0.9559
+      ],
+      "attr_stats": {
+        "opacity": {
+          "min": -4.306669235229492,
+          "max": 11.114056587219238,
+          "mean": 4.945815156855448,
+          "std": 1.7871978051707842
+        },
+        "scale_0": {
+          "min": -7.013082504272461,
+          "max": -3.9814090728759766,
+          "mean": -6.220853320346878,
+          "std": 0.624005579606193
+        },
+        "scale_1": {
+          "min": -7.013106822967529,
+          "max": -4.096988677978516,
+          "mean": -6.324712428823884,
+          "std": 0.6231789732327397
+        },
+        "scale_2": {
+          "min": -7.013115882873535,
+          "max": -4.150491714477539,
+          "mean": -6.40384541644987,
+          "std": 0.8315269983903324
+        },
+        "f_dc_0": {
+          "min": -1.5073442459106445,
+          "max": 1.6266831159591675,
+          "mean": 0.563715835609795,
+          "std": 0.49439431132616296
+        },
+        "f_dc_1": {
+          "min": -1.5394271612167358,
+          "max": 1.5251867771148682,
+          "mean": 0.3940383329431894,
+          "std": 0.5295136596463068
+        },
+        "f_dc_2": {
+          "min": -1.564095139503479,
+          "max": 1.4298356771469116,
+          "mean": 0.358526660729797,
+          "std": 0.5285037513198224
+        }
+      }
+    }
+  ]
+}
